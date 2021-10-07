@@ -6,6 +6,6 @@ Office Hours with Prof. Matthew Fricke are on Wednesdays from 10:00 to 11:00am a
 
 Graduate student Kevin Fotso's office hours are on Tuesdays at 11:00 to 11:40am MT via Zoom. The link for Kevin's office hours is https://unm.zoom.us/j/99653166024.
 
-Please email Matthew at mfricke@unm.edu or Kevin at kfotsotagne@unm.edu to let us know to expect you.
+Befone you attend please email Matthew at mfricke@unm.edu or Kevin at kfotsotagne@unm.edu to let us know to expect you.
 
 If none of these times are convenient please help help@carc.unm.edu to make an appointment.
