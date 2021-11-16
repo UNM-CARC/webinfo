@@ -2,7 +2,7 @@
 
 The Center for Advanced Research Computing offers weekly office hours where CARC users can come for help. Office hours are first-come-first-served so there may be a delay in seeing you, but we are usually able to see everyone who comes.
 
-Office Hours with Prof. Matthew Fricke are on Wednesdays from 10:00 to 11:00am and Thursdays from 2:00 to 3:00pm MT via Zoom are welcome. The Zoom link is [https://unm.zoom.us/j/4232179831](https://unm.zoom.us/j/4232179831).
+Office Hours with Prof. Matthew Fricke are on Wednesdays from 10:00 to 11:00am and Thursdays from 2:00 to 3:00pm MT via Zoom. The Zoom link is [https://unm.zoom.us/j/4232179831](https://unm.zoom.us/j/4232179831).
 
 In person visits at CARC 1112 are by appointment only. Please email help@carc.unm.edu to make an appointment.
 
