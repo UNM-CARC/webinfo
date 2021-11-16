@@ -10,4 +10,4 @@ Graduate student Kevin Fotso's office hours are on Tuesdays at 11:00 to 11:40am 
 
 Befone you attend please email Matthew at mfricke@unm.edu or Kevin at kfotsotagne@unm.edu to let us know to expect you.
 
-If none of these times are convenient please help help@carc.unm.edu to make an appointment.
+If none of these zoom meeting times are convenient please help help@carc.unm.edu to make an appointment.
