@@ -1,11 +1,5 @@
 ## Office Hours
 
-### Winter break office hour cancellations
-
-Prof. Fricke's office hours will resume on January 5th, 2022.
-
-Kevin Fotso's office hours will resume on January 11th, 2022.
-
 ---
 The Center for Advanced Research Computing offers weekly office hours where CARC users can come for help. Office hours are first-come-first-served so there may be a delay in seeing you, but we are usually able to see everyone who comes.
 
