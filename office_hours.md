@@ -18,7 +18,7 @@ Matthew Fricke, Research Assistant Professor ([mfricke@unm.edu](mailto://mfricke
 
 These are open office hours, but notification that you plan to attend is helpful. Open office hours are first-come-first-served so there may be a delay in seeing you, but we are usually able to see everyone who comes.
 
-If none of these zoom meeting times are convenient please help [support@carc.unm.edu](mailto://support@carc.unm.edu) to make an appointment.
+If none of these zoom meeting times are convenient please email [support@carc.unm.edu](mailto://support@carc.unm.edu) to make an appointment.
 
 ### In Person Appointments
 
