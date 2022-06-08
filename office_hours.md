@@ -5,8 +5,7 @@ The Center for Advanced Research Computing offers weekly office hours. We are he
 
 ### Open office hours on Zoom
 
-New users should attend Matthew Fricke's office hours. Kevin Fotso's office hours are for users in the UNM Arts and Sciences school only.
-
+New users should attend Matthew Fricke or Jacob McCullough's office hours. Kevin Fotso's office hours are for users in the UNM Arts and Sciences school only.
 
 - Mondays from 4:00 to 5:00pm MT [https://unm.zoom.us/j/93522087571](https://unm.zoom.us/j/93522087571).  
 Jacob McCullough, CARC Graduate Fellow ([jmccullough12@unm.edu](mailto://jmccullough12@unm.edu))  
