@@ -1,7 +1,7 @@
 ## Office Hours
 
 ---
-The Center for Advanced Research Computing offers weekly office hours where CARC users can come for help.
+The Center for Advanced Research Computing offers weekly office hours. We are here to help you with any questions or issues you have related to CARC and look forward to meeting with you.  
 
 ### Open office hours on Zoom
 
@@ -13,8 +13,7 @@ Jacob McCullough, CARC Graduate Fellow ([jmccullough12@unm.edu](mailto://jmccull
 - Tuesdays from 01:00 to 02:00pm MT [https://unm.zoom.us/j/99653166024](https://unm.zoom.us/j/99653166024).  
 Kevin Fotso, Research Computing Analyst, ([kfotsotagne@unm.edu](mailto://kfotsotagne@unm.edu))  
 - Wednesdays from 10:00 to 11:00am and Thursdays from 2:00 to 3:00pm MT [https://unm.zoom.us/j/4232179831](https://unm.zoom.us/j/4232179831).  
-Matthew Fricke, Research Assistant Professor ([mfricke@unm.edu](mailto://mfricke@unm.edu))  *Matthew's office hours are cancelled on Thursday, May 26th, Wednesday June 1st, and Thursday June 2nd while he is on annual leave.*
-
+Matthew Fricke, Research Assistant Professor ([mfricke@unm.edu](mailto://mfricke@unm.edu))  
 
 These are open office hours, but notification that you plan to attend is helpful. Open office hours are first-come-first-served so there may be a delay in seeing you, but we are usually able to see everyone who comes.
 
