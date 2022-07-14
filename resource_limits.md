@@ -8,7 +8,7 @@ To ensure that all research and class projects get their fair share of the clust
 The cluster is a limited resource and Fairshare allows us to ensure everyone gets a fair opportunity to use it regardless of how big or small the group is.
 Your compute resource allocation is shared among everyone in the slurm account you select. 
 
-For more on slurm accounts see this quickbyte: https://github.com/UNM-CARC/QuickBytes/blob/master/slurm_accounting.md
+For more on slurm accounts see this quickbyte: [https://github.com/UNM-CARC/QuickBytes/blob/master/slurm_accounting.md](https://github.com/UNM-CARC/QuickBytes/blob/master/slurm_accounting.md)
 Note that your slurm account is not the same as your CARC login account.
 
 To see the predicted start time of your job based on your fairshare score, use the following command:
