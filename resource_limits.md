@@ -54,7 +54,7 @@ To see the predicted start time of your job based on your fairshare score, use t
 
 |                Queue: |   General  |    Debug   | Condo    | Private |
 |----------------------:|:----------:|:----------:| :---:    | :---:   |
-| Number of Processors  |     64     |     32     | 192      | Determined by <br> queue owner |
-|      Number of Nodes  |     2      |      1     | 6        |  |
-|   Processors per Node |    32      |      32    | 32       |  |
+| Number of Processors  |     64     |     8     | 192      | Determined by <br> queue owner |
+|      Number of Nodes  |     2      |      2     | 6        |  |
+|   Processors per Node |    32      |      8    | 32       |  |
 |       Walltime(H:M:S) |  48:00:00  |  04:00:00  | 48:00:00 |  |
