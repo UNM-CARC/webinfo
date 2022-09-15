@@ -5,6 +5,8 @@ The Center for Advanced Research Computing offers weekly office hours. We are he
 
 ### Open office hours on Zoom
 
+*THURSDAY SEPT 16th OFFICE HOURS ARE CANCELLED - MATTHEW IS TEACHING A WORKSHOP AT THAT TIME*
+
 New users should attend Matthew Fricke's office hours. Kevin Fotso's office hours are for users in the UNM Arts and Sciences school only.
 
 **NOTE: Office Hours on Wednesday, Sept 7th are cancelled.**
