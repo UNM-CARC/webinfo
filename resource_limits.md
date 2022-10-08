@@ -20,7 +20,7 @@ To see the predicted start time of your job based on your fairshare score, use t
 
 | Queue                | GPU                             | Bigmem   | Debug    |
 |---:                  |:---:                            |:---:     |:---:     |
-| Number of Processors | 192                             | 128      | 4        |
+| Number of Processors | 192                             | 128      | 8        |
 | Number of Nodes      | 12 (singleGPU) <br> 4 (dualGPU) | 1        | 2        |
 | Processors per Node  | 16                              | 32       | 4        |
 | Walltime(H:M:S)      | 48:00:00                        | 48:00:00 | 04:00:00 |
