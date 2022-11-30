@@ -18,12 +18,13 @@ To see the predicted start time of your job based on your fairshare score, use t
 
 ## Xena Configuration
 
-| Queue                | GPU                             | Bigmem   | Debug    |
-|---:                  |:---:                            |:---:     |:---:     |
-| Number of Processors | 192                             | 128      | 8        |
-| Number of Nodes      | 12 (singleGPU) <br> 4 (dualGPU) | 1        | 2        |
-| Processors per Node  | 16                              | 32       | 4        |
-| Walltime(H:M:S)      | 48:00:00                        | 48:00:00 | 04:00:00 |
+| Queue                | GPU                             | Bigmem                                | Debug    |
+|---:                  |:---:                            |:---:                                  |:---:     |
+| Number of Processors | 192                             | 128                                   | 8        |
+| Number of Nodes      | 12 (singleGPU) <br> 4 (dualGPU) | 1                                     | 2        |
+| Processors per Node  | 16                              | 32                                    | 4        |
+| Walltime(H:M:S)      | 48:00:00                        | 48:00:00                              | 04:00:00 |
+| Memory Limit         | 62 Gb (singleGPU and dualGPU)   | 1 Tb (bigmem-1TB)<br>3 Tb (bigmem-3TB)| 62 Gb    |
 
 
 ## Wheeler Configuration
@@ -35,11 +36,11 @@ To see the predicted start time of your job based on your fairshare score, use t
 |      Number of Nodes  |     50     |      4     |
 |   Processors per Node |      8     |      8     |
 |       Walltime(H:M:S) |  48:00:00  |  04:00:00  |
+|         Memory Limit  |    48 Gb   |    48 Gb   |
 
 
 
 ## Gibbs Configuration
-
 
 
 |                     | Limit       |
@@ -48,13 +49,16 @@ To see the predicted start time of your job based on your fairshare score, use t
 |Number of Nodes	    |  6          | 
 |Processors per Node  |	16          |        
 |Walltime(H:M:S)      |  96:00:00   |
+|Memory Limit         |    62 Gb    |
+
 
 ## Hopper Configuration
 
 
 |                Queue: |   General  |    Debug   | Condo    | Private |
 |----------------------:|:----------:|:----------:| :---:    | :---:   |
-| Number of Processors  |     64     |     8     | 192      | Determined by <br> queue owner |
+| Number of Processors  |     64     |     8      | 192      | Determined by <br> queue owner |
 |      Number of Nodes  |     2      |      2     | 6        |  |
-|   Processors per Node |    32      |      8    | 32       |  |
+|   Processors per Node |    32      |      8     | 32       |  |
 |       Walltime(H:M:S) |  48:00:00  |  04:00:00  | 48:00:00 |  |
+|        Memory Limits  |    95 Gb   |    95 Gb   |          |  |
