@@ -7,7 +7,7 @@ The Center for Advanced Research Computing offers weekly office hours. We are he
 
 New users should attend Matthew Fricke's office hours. Kevin Fotso's office hours are for users in the UNM Arts and Sciences school only.
 
-**NOTE: Office Hours from Dec 21st, 2022 to Jan 2nd, 2023 are cancelled for the UNM winter break and annual leave.**
+**NOTE: Matthew is out on sick leave Jan 4th. His office hours are cancelled that day.**
 
 - Tuesdays from 01:00 to 02:00pm MT [https://unm.zoom.us/j/99653166024](https://unm.zoom.us/j/99653166024).  
 Kevin Fotso, Research Computing Analyst, ([kfotsotagne@unm.edu](mailto://kfotsotagne@unm.edu))  
