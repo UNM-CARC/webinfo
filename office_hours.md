@@ -5,12 +5,12 @@ The Center for Advanced Research Computing offers weekly office hours. We are he
 
 ### Open office hours on Zoom
 
-New users should attend Matthew Fricke's office hours. Kevin Fotso's office hours are for users in the UNM Arts and Sciences school only.
+New users should attend Matthew Fricke's office hours. Tannor Brown's office hours are for users in the UNM Arts and Sciences school only.
 
 **NOTE: Matthew's office hours on February 8th, 9th, 15th, and 16th are cancelled due to trainings and annual leave.**
 
-- Tuesdays from 01:00 to 02:00pm MT [https://unm.zoom.us/j/99653166024](https://unm.zoom.us/j/99653166024).  
-Kevin Fotso, Research Computing Analyst, ([kfotsotagne@unm.edu](mailto://kfotsotagne@unm.edu))  
+- Tuesdays from 01:00 to 02:00pm MT [(https://unm.zoom.us/j/6964891212)](https://unm.zoom.us/j/6964891212).  
+Tannor Brown, Research Computing Analyst, ([tbrown98@unm.edu](mailto://tbrown98@unm.edu))  
 - Wednesdays from 10:00 to 11:00am and Thursdays from 2:00 to 3:00pm MT [https://unm.zoom.us/j/4232179831](https://unm.zoom.us/j/4232179831).  
 Matthew Fricke, Research Assistant Professor ([mfricke@unm.edu](mailto://mfricke@unm.edu))  
 
