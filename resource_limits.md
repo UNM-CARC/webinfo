@@ -24,7 +24,7 @@ To see the predicted start time of your job based on your fairshare score, use t
 | Number of Nodes      | 12 (singleGPU) <br> 4 (dualGPU) | 1                                     | 2        |
 | Processors per Node  | 16                              | 32                                    | 4        |
 | Walltime(H:M:S)      | 48:00:00                        | 48:00:00                              | 04:00:00 |
-| Memory Limit         | 62 Gb (singleGPU and dualGPU)   | 1 Tb (bigmem-1TB)<br>3 Tb (bigmem-3TB)| 62 Gb    |
+| Memory Limit         | 60 Gb (singleGPU and dualGPU)   | 1 Tb (bigmem-1TB)<br>3 Tb (bigmem-3TB)| 60 Gb    |
 
 
 ## Wheeler Configuration
@@ -36,7 +36,7 @@ To see the predicted start time of your job based on your fairshare score, use t
 |      Number of Nodes  |     50     |      4     |
 |   Processors per Node |      8     |      8     |
 |       Walltime(H:M:S) |  48:00:00  |  04:00:00  |
-|         Memory Limit  |    48 Gb   |    48 Gb   |
+|         Memory Limit  |    44 Gb   |    44 Gb   |
 
 
 ## Hopper Configuration
