@@ -39,19 +39,6 @@ To see the predicted start time of your job based on your fairshare score, use t
 |         Memory Limit  |    48 Gb   |    48 Gb   |
 
 
-
-## Gibbs Configuration
-
-
-|                     | Limit       |
-|---:                 | :---:       |
-|Number of Processors |	96          |	
-|Number of Nodes	    |  6          | 
-|Processors per Node  |	16          |        
-|Walltime(H:M:S)      |  96:00:00   |
-|Memory Limit         |    62 Gb    |
-
-
 ## Hopper Configuration
 
 
@@ -61,4 +48,4 @@ To see the predicted start time of your job based on your fairshare score, use t
 |      Number of Nodes  |     2      |      2     | 6        |  |
 |   Processors per Node |    32      |      8     | 32       |  |
 |       Walltime(H:M:S) |  48:00:00  |  04:00:00  | 48:00:00 |  |
-|        Memory Limits  |    95 Gb   |    95 Gb   |          |  |
+|        Memory Limits  |    90 Gb   |    90 Gb   |          |  |
