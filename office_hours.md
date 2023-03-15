@@ -3,6 +3,8 @@
 ---
 The Center for Advanced Research Computing offers weekly office hours. We are here to help you with any questions or issues you have related to CARC and look forward to meeting with you.  
 
+Office hours will be cancelled March 22nd and 23rd, May 24th and 25th, June 14th and 15th, and Augest 9th and 10th due to travel.
+
 - Wednesdays from 10:00 to 11:00am and Thursdays from 2:00 to 3:00pm MT [https://unm.zoom.us/j/4232179831](https://unm.zoom.us/j/4232179831).  
 Matthew Fricke, Research Assistant Professor ([mfricke@unm.edu](mailto://mfricke@unm.edu))  
 
