@@ -1,6 +1,6 @@
 # Storage Policy
 
-Home directories are limited to 200 GB. Project space is limited to 250 GB. Scratch storage is limited to 1 TB (2 TB on Xena). Center-wide project scratch space is limited to 1 TB and user scratch is limited to 100G (/carc/scratch). To purchase additional storage please see our [pricing spreadsheet](https://carc.unm.edu/research/premium-research-computing-services.html).
+Home directories have a soft limit of 100GB and a hard limit of 200GB. Once you exceed the soft limit we will ask you to reduce your usage. You will not be able to write data beyond the hard limit. Project space is limited to 250 GB. Scratch storage is limited to 1 TB (2 TB on Xena). Center-wide project scratch space is limited to 1 TB and user scratch is limited to 100G (/carc/scratch). To purchase additional storage please see our [pricing spreadsheet](https://carc.unm.edu/research/premium-research-computing-services.html).
 
 The 'quotas' command shows your quota usage.
 
