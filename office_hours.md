@@ -10,4 +10,4 @@ Matthew Fricke, Research Assistant Professor ([mfricke@unm.edu](mailto://mfricke
 
 Open office hours are first-come-first-served so there may be a delay in seeing you, but we are usually able to see everyone who comes.
 
-Office hours are only available on Zoom. Due to increasing demand we cannot accomodate special appointments times.
+Office hours are only available on Zoom. Due to increasing demand we cannot accomodate special appointment times.
