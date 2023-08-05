@@ -1,5 +1,7 @@
 # Open Office and Consultation Hours
 
+**Office hours on Thursday August 10th are cancelled due to travel. Troy Redfearn is covering office hours on Wednesday.**
+
 ---
 The Center for Advanced Research Computing offers weekly office hours. We are here to help you with any questions or issues you have related to CARC and look forward to meeting with you.  
 
