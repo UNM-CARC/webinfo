@@ -10,7 +10,7 @@ Consultation and Open Office hours are only available on Zoom. Due to increasing
 ## Open Office Hours
 Open office hours are first-come-first-served so there may be a delay in seeing you, but we are usually able to see everyone who comes.
 
-- Wednesdays from 10:00 to 11:00am and Thursdays from 2:00 to 3:00pm MT [https://unm.zoom.us/j/4232179831](https://unm.zoom.us/j/4232179831).  
+- Wednesdays from 10:00 to 11:00am and Thursdays from 4:00 to 5:00pm MT [https://unm.zoom.us/j/4232179831](https://unm.zoom.us/j/4232179831).  
 Matthew Fricke, Research Assistant Professor ([mfricke@unm.edu](mailto://mfricke@unm.edu))  
 
 ## Consultation Hours
