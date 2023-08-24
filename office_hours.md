@@ -15,6 +15,6 @@ Matthew Fricke, Research Assistant Professor ([mfricke@unm.edu](mailto://mfricke
 
 ## Consultation Hours
 
-- Thursdays at 10:00-11:00am I will hold consultation hours. These are intended to accomodate longer discussions with a single user or group. Consulations must be booked in advance by emailing mfricke@unm.edu.
+- Thursdays from 2:00-3:00am I will hold consultation hours. These are intended to accomodate longer discussions with a single user or group. Consulations must be booked in advance by emailing mfricke@unm.edu.
   
 
