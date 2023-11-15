@@ -1,5 +1,7 @@
 # Open Office and Consultation Hours
 
+Thursday (Nov 16th) office hours are cancelled since Matthew Fricke is attending the Supercomputing Conference in Denver.
+
 ---
 The Center for Advanced Research Computing offers weekly office hours. We are here to help you with any questions or issues you have related to CARC and look forward to meeting with you.  
 
