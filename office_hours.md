@@ -1,5 +1,3 @@
-OFFICE AND CONSULTATION HOURS ARE CLOSED UNTIL JANUARY 3RD 2024.
-
 # Open Office and Consultation Hours
 The Center for Advanced Research Computing offers weekly office hours. We are here to help you with any questions or issues you have related to CARC and look forward to meeting with you.  
 
