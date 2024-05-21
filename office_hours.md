@@ -9,8 +9,8 @@ Open office hours are first-come-first-served so there may be a delay in seeing 
 - Wednesdays from 11:00am to 12:00pm and Thursdays from 4:00 to 5:00pm MT [https://unm.zoom.us/j/4232179831](https://unm.zoom.us/j/4232179831).  
 Matthew Fricke, Research Assistant Professor ([mfricke@unm.edu](mailto://mfricke@unm.edu))
 
-- Mondays from 4:00pm to 5:00pm Zoom link [https://unm.zoom.us/j/97124071325](https://unm.zoom.us/j/97124071325).  
-Student Assistants: Maisy Dunlavy & Ryan Scherbarth
+- Mondays from 4:00 to 5:00pm Zoom link [https://unm.zoom.us/j/97124071325](https://unm.zoom.us/j/97124071325).  
+HPC User Support: Maisy Dunlavy & Ryan Scherbarth
 
 ## Consultation Hours
 
