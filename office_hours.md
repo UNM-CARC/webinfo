@@ -3,6 +3,8 @@ The Center for Advanced Research Computing offers weekly office hours. We are he
 
 Consultation and Open Office hours are only available on Zoom. Due to increasing demand we cannot accomodate special appointment times. Please connect to the Zoom session using a computer rather than a phone.
 
+**There will be no office hours on June 19th since UNM is closed.**
+
 ## Open Office Hours
 Open office hours are first-come-first-served so there may be a delay in seeing you, but we are usually able to see everyone who comes.
 
