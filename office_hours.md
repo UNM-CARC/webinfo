@@ -3,13 +3,11 @@ The Center for Advanced Research Computing offers weekly office hours. We are he
 
 Consultation and Open Office hours are only available on Zoom. Due to increasing demand we cannot accomodate special appointment times. Please connect to the Zoom session using a computer rather than a phone.
 
-**There will be no office hours on Thursday July 25th.**
-
 ## Open Office Hours
 Open office hours are first-come-first-served so there may be a delay in seeing you, but we are usually able to see everyone who comes.
 
 - Wednesdays from 11:00am to 12:00pm and Thursdays from 4:00 to 5:00pm MT [https://unm.zoom.us/j/4232179831](https://unm.zoom.us/j/4232179831).  
-Matthew Fricke, Research Assistant Professor ([mfricke@unm.edu](mailto://mfricke@unm.edu))
+Matthew Fricke, Research Associate Professor ([mfricke@unm.edu](mailto://mfricke@unm.edu))
 
 ## Consultation Hours
 
